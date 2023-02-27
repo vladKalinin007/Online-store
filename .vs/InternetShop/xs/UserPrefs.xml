@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{3782E47A-3E48-4E47-94F0-D7D30586FCEC}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../InternetShop/Controllers/CategoryController.cs" line="36" column="16" endLine="36" endColumn="26" offsetX="-1" offsetY="-1" expression="ModelState.IsValid" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InternetShop/Controllers/ProductController.cs">
+    <Files>
+      <File FileName="InternetShop/WC.cs" Line="6" Column="53" />
+      <File FileName="InternetShop/Controllers/ProductController.cs" Line="72" Column="10" />
+      <File FileName="InternetShop/Views/Product/Upsert.cshtml" Line="12" Column="30" />
+      <File FileName="InternetShop/Models/Product.cs" Line="16" Column="48" />
+      <File FileName="InternetShop/Program.cs" Line="9" Column="1" />
+      <File FileName="InternetShop/Data/ApplicationDbContext.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InternetShop" expanded="True">
+            <Node name="InternetShop" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="images" expanded="True">
+                  <Node name="product" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.InternetShop PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

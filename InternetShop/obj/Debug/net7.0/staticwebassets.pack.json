@@ -1,0 +1,1073 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/obj/Debug/net7.0/scopedcss/projectbundle/InternetShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/InternetShop.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets/fontawesome/HELP-US-OUT.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/css/font-awesome.css",
+      "PackagePath": "staticwebassets/fontawesome/css/font-awesome.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/fontawesome/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/fontawesome/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/fontawesome/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/fontawesome/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fontawesome/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fontawesome/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fontawesome/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/animated.less",
+      "PackagePath": "staticwebassets/fontawesome/less/animated.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/bordered-pulled.less",
+      "PackagePath": "staticwebassets/fontawesome/less/bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/core.less",
+      "PackagePath": "staticwebassets/fontawesome/less/core.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/fixed-width.less",
+      "PackagePath": "staticwebassets/fontawesome/less/fixed-width.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/font-awesome.less",
+      "PackagePath": "staticwebassets/fontawesome/less/font-awesome.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/icons.less",
+      "PackagePath": "staticwebassets/fontawesome/less/icons.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/larger.less",
+      "PackagePath": "staticwebassets/fontawesome/less/larger.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/list.less",
+      "PackagePath": "staticwebassets/fontawesome/less/list.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/mixins.less",
+      "PackagePath": "staticwebassets/fontawesome/less/mixins.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/path.less",
+      "PackagePath": "staticwebassets/fontawesome/less/path.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/rotated-flipped.less",
+      "PackagePath": "staticwebassets/fontawesome/less/rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/screen-reader.less",
+      "PackagePath": "staticwebassets/fontawesome/less/screen-reader.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/stacked.less",
+      "PackagePath": "staticwebassets/fontawesome/less/stacked.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/less/variables.less",
+      "PackagePath": "staticwebassets/fontawesome/less/variables.less"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_path.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_path.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/fontawesome/scss/font-awesome.scss",
+      "PackagePath": "staticwebassets/fontawesome/scss/font-awesome.scss"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/images/product/23245e8b-5fc2-43a9-ba43-367660b99ecf.jpg",
+      "PackagePath": "staticwebassets/images/product/23245e8b-5fc2-43a9-ba43-367660b99ecf.jpg"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/images/product/6935ff01-99e7-432a-982c-c8f65e103289.jpg",
+      "PackagePath": "staticwebassets/images/product/6935ff01-99e7-432a-982c-c8f65e103289.jpg"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/font/summernote.eot",
+      "PackagePath": "staticwebassets/summernote/font/summernote.eot"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/font/summernote.ttf",
+      "PackagePath": "staticwebassets/summernote/font/summernote.ttf"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/font/summernote.woff",
+      "PackagePath": "staticwebassets/summernote/font/summernote.woff"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/font/summernote.woff2",
+      "PackagePath": "staticwebassets/summernote/font/summernote.woff2"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ar-AR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ar-AR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-az-AZ.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-az-AZ.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-bg-BG.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-bg-BG.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ca-ES.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ca-ES.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-cs-CZ.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-da-DK.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-da-DK.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-da-DK.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-de-DE.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-de-DE.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-de-DE.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-el-GR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-el-GR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-el-GR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-es-ES.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-es-ES.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-es-ES.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-es-EU.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-es-EU.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-es-EU.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fa-IR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fa-IR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fi-FI.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fi-FI.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fr-FR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fr-FR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-gl-ES.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-gl-ES.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-he-IL.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-he-IL.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-he-IL.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-hr-HR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-hr-HR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-hu-HU.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-hu-HU.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-id-ID.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-id-ID.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-id-ID.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-it-IT.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-it-IT.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-it-IT.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ja-JP.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ja-JP.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ko-KR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ko-KR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-lt-LT.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-lt-LT.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-lt-LV.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-lt-LV.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-mn-MN.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-mn-MN.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-nb-NO.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-nb-NO.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-nl-NL.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-nl-NL.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pl-PL.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pl-PL.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pt-BR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pt-BR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pt-PT.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pt-PT.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ro-RO.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ro-RO.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ru-RU.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ru-RU.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sk-SK.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sk-SK.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sl-SI.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sl-SI.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sr-RS.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sr-RS.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sv-SE.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sv-SE.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ta-IN.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ta-IN.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-th-TH.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-th-TH.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-th-TH.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-tr-TR.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-tr-TR.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-uk-UA.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-uk-UA.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-uz-UZ.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-vi-VN.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-vi-VN.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-zh-CN.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-zh-CN.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-zh-TW.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-zh-TW.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/lang/summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/lang/summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/plugin/databasic/summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets/summernote/plugin/databasic/summernote-ext-databasic.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/plugin/databasic/summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets/summernote/plugin/databasic/summernote-ext-databasic.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/plugin/hello/summernote-ext-hello.js",
+      "PackagePath": "staticwebassets/summernote/plugin/hello/summernote-ext-hello.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/plugin/specialchars/summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets/summernote/plugin/specialchars/summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.css",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.js",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.js.map",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.min.css",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.min.js",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets/summernote/summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.css",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.js",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.js.map",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.min.css",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.min.js",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets/summernote/summernote-lite.min.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.css",
+      "PackagePath": "staticwebassets/summernote/summernote.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.js",
+      "PackagePath": "staticwebassets/summernote/summernote.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.js.map",
+      "PackagePath": "staticwebassets/summernote/summernote.js.map"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.min.css",
+      "PackagePath": "staticwebassets/summernote/summernote.min.css"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.min.js",
+      "PackagePath": "staticwebassets/summernote/summernote.min.js"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/summernote/summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vladislavkalinin/Projects/InternetShop/InternetShop/wwwroot/summernote/summernote.min.js.map",
+      "PackagePath": "staticwebassets/summernote/summernote.min.js.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.InternetShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.InternetShop.props",
+      "PackagePath": "build\\InternetShop.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.InternetShop.props",
+      "PackagePath": "buildMultiTargeting\\InternetShop.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.InternetShop.props",
+      "PackagePath": "buildTransitive\\InternetShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,79 @@
+﻿@using System.Linq;
+
+@model IEnumerable<Category>
+
+<div class="container p-3">
+
+    <div class="row d-flex justify-content-between">
+        <div class="col-6">
+            <h2 class="text-primary"> Category lists </h2>
+        </div>
+        <div class="col-6 d-flex justify-content-end">
+            <a asp-action="Create" class="btn btn-primary ml-auto d-flex align-items-center">
+                <i class="fa fa-plus" aria-hidden="true"></i> &nbsp; Create new category
+            </a>
+        </div>
+    </div>
+
+    <br />
+
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped table-rounded table-hover" style="width: 100%">
+            <thead>
+                <tr>
+                    <th>
+                        Category name
+                    </th>
+                    <th>
+                        Display order
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var obj in Model)
+                {
+                     <tr>
+                         <td width="30%"> @obj.Name </td>
+                         <td width="30%"> @obj.DisplayOrder </td>
+                         <td class="text-center">
+                             <div class="w-75 btn-group" role="group">
+                                 <a asp-controller="Category" asp-route-Id="@obj.Id" asp-action="Edit" class="btn btn-primary mx-2">
+                                     <i class="fa fa-pencil-square-o" aria-hidden="true"></i> &nbsp; Edit
+                                 </a>
+                                 <a asp-controller="Category" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger mx-2">
+                                     <i class="fa fa-trash-o" aria-hidden="true"></i> &nbsp; Delete
+                                 </a>
+                             </div>
+                         </td>
+                     </tr>
+                }
+            </tbody>
+        </table>
+    }
+        else
+    {
+            <p> No category found </p>
+    }
+
+</div>
+
+<style>
+    .table {
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+        border-radius: 6px;
+    }
+
+    .table-hover tbody tr:hover td {
+        background-color: #f5f5f5;
+        transition: background-color 0.3s ease-in-out;
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    }
+    .btn-primary:hover {
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    }
+
+</style>
+
+

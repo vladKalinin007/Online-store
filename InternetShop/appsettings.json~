@@ -1,0 +1,14 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=InternetShop;Trusted_Connection=true;'MultipleActiveResultSets=true"
+    // "DefaultConnection": "Server=localhost;Database=InternetShop;Trusted_Connection=True;'MultipleActiveResultSets=True"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
+

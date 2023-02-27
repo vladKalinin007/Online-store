@@ -1,0 +1,12 @@
+﻿using System;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
+namespace InternetShop.Models.ViewModels
+{
+	public class ProductVM
+	{
+		public Product Product { get; set; }
+		IEnumerable<SelectListItem> CategorySelectList { get; set; }
+    }
+}
+

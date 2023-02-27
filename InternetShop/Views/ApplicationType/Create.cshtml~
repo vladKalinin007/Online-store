@@ -1,0 +1,4 @@
+﻿@model InternetShop.Models.Category
+
+<form method="post" asp-asction="Create"></form>
+

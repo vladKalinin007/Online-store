@@ -1,0 +1,143 @@
+﻿@model InternetShop.Models.ViewModels.ProductVM
+@using System.IO;
+
+@{
+    var title = "Create Product";
+}
+
+<form method="post" enctype="multipart/form-data">
+
+    @if (Model.Product.Id != 0)
+    {
+        title = "Edit Product";
+        <input asp-for="Product.Id" hidden />
+    }
+
+    <div class="border p-3 mb-3 shadow-sm mx-auto" style="max-width: 900px;">
+
+        <div class="form-group row">
+            <h2 class="text-info pl-3 mb-3">@title</h2>
+        </div>
+
+        <hr />
+
+        <div class="row">
+            <div class="col-12">
+                @* Name *@
+                <div class="form-group row align-items-center">
+                    <div class="col-2 text-center">
+                        <label asp-for="Product.Name" class="mb-0"></label>
+                    </div>
+                    <div class="col-10">
+                        <input asp-for="Product.Name" class="form-control mb-2" />
+                        <span asp-validation-for="Product.Name" class="text-danger"></span>
+                    </div>
+                </div>
+                @* Price *@
+                <div class="form-group row align-items-center">
+                    <div class="col-2 text-center">
+                        <label asp-for="Product.Price" class="mb-0"></label>
+                    </div>
+                    <div class="col-10">
+                        <input asp-for="Product.Price" class="form-control mb-2" />
+                        <span asp-validation-for="Product.Price" class="text-danger"></span>
+                    </div>
+                </div>
+                @* Description *@
+                <div class="form-group row align-items-center">
+                    <div class="col-2 text-center">
+                        <label asp-for="Product.Description" class="mb-0"></label>
+                    </div>
+                    <div class="col-10">
+                        <textarea asp-for="Product.Description" id="summernote" class="form-control mb-2"> </textarea>
+                        <span asp-validation-for="Product.Description " class="text-danger"></span>
+                    </div>
+                </div>
+                @* Image *@
+                <div class="form-group row align-items-center">
+                    <div class="col-2 text-center">
+                        Image
+                    </div>
+                    <div class="col-10">
+                        <input type="file" name="files" id="uploadBox" multiple class="form-control mb-2" />
+                        @if (Model.Product.Image != null && Model.Product.Image.Length > 0)
+                        {
+                            <img src="@Url.Content(WC.ImagePath + "/" + Model.Product.Image)" width="200" style="border-radius:5px; border:1px solid #bbb" />
+                        }
+                    </div>
+                </div>
+                @* Dropdown List *@
+                <div class="form-group row align-items-center">
+                    <div class="col-2 text-center">
+                        <label asp-for="Product.CategoryId"></label>
+                    </div>
+                    <div class="col-10">
+                        <select asp-for="Product.CategoryId" asp-items="@Model.CategorySelectList" class="form-control">
+                            <option disabled selected>-- Select Category --</option>
+                        </select>
+                        <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <hr />
+
+                @* Btn *@
+                <div class="form-group row">
+                    <div class="col-12 d-flex col-12 d-flex justify-content-between gap-2">
+                        <div class="col-6 pr-1">
+                            @if (Model.Product.Id != 0)
+                            {
+                                // Update
+                                <input type="submit" class="btn btn-info w-100" value="Update" />
+                            }
+                            else
+                            {
+                                // Create
+                                <input type="submit" onclick="return validateInput()" class="btn btn-primary w-100" value="Create" />
+                            }
+                        </div>
+                        <div class="col-6 pl-1">
+                            <a asp-action="Index" class="btn btn-danger w-100">
+                                Back
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                @* Btn *@
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <script>$('#summernote').summernote({
+            placeholder: 'Hello Bootstrap 5',
+            tabsize: 2,
+            height: 100
+        });
+
+        function validateInput() {
+            if (document.getElementById("uploadBox").value == "") {
+                Swal.fire(
+                    'Error',
+                    'Please upload an image!',
+                    'error'
+                )
+                return false;
+            }
+            return true;
+        }
+
+            //function previewImage() {
+            //    var fileInput = document.getElementById('uploadBox');
+            //    var preview = document.getElementById('preview');
+            //    var files = fileInput.files;
+            //    if (files && files[0]) {
+            //        var reader = new FileReader();
+            //        reader.onload = function (e) {
+            //            preview.src = e.target.result;
+            //        }
+            //        reader.readAsDataURL(files[0]);
+            //    }
+            //}</script>
+}
