@@ -1,0 +1,8 @@
+*.cshtml~
+*.cs~
+*.vs
+/obj
+/bin
+/.vs
+/Properties/launchSettings.json
+/wwwroot/lib

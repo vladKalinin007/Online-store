@@ -7,6 +7,7 @@ using InternetShop.Models;
 using InternetShop.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace InternetShop.Controllers
 {
@@ -94,7 +95,34 @@ namespace InternetShop.Controllers
                 else
                 {
                     // Update
-                    
+                    var objFromDb = _db.Product.AsNoTracking().FirstOrDefault(u => u.Id == productVM.Product.Id);
+
+                    if (files.Count > 0)
+                    {
+                        string upload = webRootPath + WC.ImagePath;
+                        string fileName = Guid.NewGuid().ToString();
+                        string extension = Path.GetExtension(files[0].FileName);
+
+                        var oldFlie = Path.Combine(upload, objFromDb.Image);
+
+                        if (System.IO.File.Exists(oldFlie))
+                        {
+                            System.IO.File.Delete(oldFlie);
+                        }
+
+                        using (var fileStream = new FileStream(Path.Combine(upload, fileName + extension), FileMode.Create))
+                        {
+                            files[0].CopyTo(fileStream);
+                        }
+
+                        productVM.Product.Image = fileName + extension;
+                    }
+                    else
+                    {
+                        productVM.Product.Image = objFromDb.Image;
+                    } //
+
+                    _db.Product.Update(productVM.Product);
                 }
 
                 _db.SaveChanges();
